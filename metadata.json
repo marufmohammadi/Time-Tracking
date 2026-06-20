@@ -1,0 +1,6 @@
+{
+  "name": "Time Progress Tracker",
+  "description": "An offline-first live time progress tracker with local SQLite history and cloud sync, supporting custom status intervals and session restarts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
