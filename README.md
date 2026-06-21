@@ -1,21 +1,121 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ⏱️ Time Progress
 
-# Run and deploy your AI Studio app
+Time Progress is a simple yet powerful app designed to track how long you stay committed to a goal, challenge, habit, or personal milestone.
 
-This contains everything you need to run your app locally.
+Whether you're building a new habit, maintaining a streak, tracking a challenge, or measuring progress toward a long-term goal, Time Progress helps you visualize exactly how much time has passed since you started.
 
-View your app in AI Studio: https://ai.studio/apps/dfbe5171-d4cf-4269-a780-3857163df694
+---
 
-## Run Locally
+## 🚀 What Can You Use It For?
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
+Time Progress is perfect for tracking:
 
+* Daily discipline streaks
+* Study challenges
+* Workout consistency
+* Productivity goals
+* Personal growth journeys
+* NoFap or self-improvement challenges
+* Meditation streaks
+* Reading habits
+* Any long-term commitment
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
+Instead of counting days manually, the app continuously tracks your progress in real time.
+
+---
+
+## 📱 How It Works
+
+### Start Tracking
+
+Open the app and start your timer.
+
+The app immediately begins counting:
+
+* Days
+* Hours
+* Minutes
+* Seconds
+
+Your progress is displayed live on the dashboard.
+
+---
+
+### Pause & Resume
+
+Need to temporarily stop tracking?
+
+Simply pause the timer and resume it whenever you're ready.
+
+---
+
+### Reset & Start a New Journey
+
+When you complete a challenge or want to begin again:
+
+1. Press Reset.
+2. Optionally add a note or reason.
+3. Start a new tracking session instantly.
+
+Your previous session is automatically saved in history.
+
+---
+
+### View Past Progress
+
+Every completed session is stored in the History section.
+
+You can review:
+
+* When the session started
+* When it ended
+* Total duration achieved
+* Notes and milestones
+
+This allows you to see how far you've come over time.
+
+---
+
+## 🌟 Milestone Tracking
+
+Set personal milestones such as:
+
+* 7 Days
+* 30 Days
+* 90 Days
+* 180 Days
+* 365 Days
+
+The app automatically shows your progress and celebrates completed milestones.
+
+---
+
+## 🔒 Works Offline
+
+Time Progress is designed to work completely offline.
+
+You can use all features without:
+
+* Internet connection
+* Account creation
+* Login requirements
+
+Your data stays on your device.
+
+---
+
+## ☁️ Optional Cloud Backup
+
+For users who want additional protection, cloud synchronization can be enabled through Firebase.
+
+This allows your progress history to be backed up and restored across devices.
+
+---
+
+## Why Time Progress?
+
+Success is built through consistency.
+
+Time Progress helps you stay motivated by showing exactly how long you've stayed committed to your goals, one second at a time.
+
+Track your journey. Stay consistent. Measure your progress.
